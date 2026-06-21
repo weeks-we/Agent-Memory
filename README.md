@@ -2,13 +2,6 @@
   <strong>From Historical Signals to Action Utility:<br>A Survey of Memory Mechanisms for LLM-based Agents</strong>
 </h1>
 
-<div align="center">
-
-
-[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/README.md)
-
-</div>
-
 ## News
 - [2026/06/18] This repository is created to maintain a paper list accompanying the survey "From Historical Signals to Action Utility: A Survey of Memory Mechanisms for LLM-based Agents".
 - [2026/06/18] The survey paper and accompanying bibliography are now available.
@@ -399,23 +392,6 @@ Many papers contribute to multiple dimensions of the taxonomy. Key cross-categor
 - **[xiao2025toolmem]** *ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory* -- Appears in: Memory Objects -> Procedural / Skill Memory, Memory Representations -> Executable Memories, Memory Operations -> Retrieval
 - **[kang2025acon]** *ACON: Optimizing Context Compression for Long-horizon LLM Agents* -- Appears in: Memory Representations -> Summary Memories, Memory Operations -> Injection & Utilization, Memory Utility & Applications -> Task Continuity
 - **[wu2025resum]** *ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization* -- Appears in: Memory Representations -> Summary Memories, Memory Operations -> Injection & Utilization, Memory Utility & Applications -> Task Continuity
-
----
-
-## Citation
-
-If you find this survey or paper list helpful, please cite:
-
-```bibtex
-@article{anonymous2026memory,
-  title     = {From Historical Signals to Action Utility: A Survey of Memory Mechanisms for LLM-based Agents},
-  author    = {Anonymous Author(s)},
-  year      = {2026},
-  note      = {Working paper}
-}
-```
-
----
 
 ## Paper Statistics
 
