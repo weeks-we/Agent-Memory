@@ -23,6 +23,12 @@ This survey studies agent memory as an **action-oriented state-management mechan
 Historical Signals -> Memory Objects -> Memory Representations -> Memory Operations -> Control Policies -> Action Utility
 ```
 
+<p align="center">
+  <img src="FrameWork_01.png" alt="Agent Memory Framework Architecture" width="900"/>
+  <br>
+  <em>Figure 1: The unified framework of agent memory mechanisms — from historical signals to action utility.</em>
+</p>
+
 ### Key Taxonomy Dimensions
 
 - **Memory Objects** (What should agents remember?): Factual, Situational, Constraint, Experiential, Procedural, Meta-memory
