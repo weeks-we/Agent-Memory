@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/README.md)
 
 </div>
@@ -434,9 +434,3 @@ If you find this survey or paper list helpful, please cite:
 ## Contributing
 
 We welcome contributions! If you have suggestions for additional papers or corrections to the taxonomy, please open an issue or pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
